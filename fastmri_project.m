@@ -1,4 +1,5 @@
-% Deniz Karakay - ECE 529 Project
+% Deniz Karakay 
+% ECE 529 Project
 
 clearvars
 close all;
